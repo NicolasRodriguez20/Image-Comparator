@@ -22,6 +22,6 @@ Proyecto funcional y publicado.
 
 ## Capturas
 
-![Ventana Principal](Screenshots/main.png)
+![Ventana Principal](Screenshots/main.jpg)
 
-![Resultados](Screenshots/duplicates-window.png)
+![Resultados](Screenshots/duplicates-window.jpg)

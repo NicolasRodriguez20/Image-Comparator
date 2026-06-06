@@ -19,3 +19,9 @@ Aplicación de escritorio para detectar imágenes duplicadas mediante hashes per
 ## Estado
 
 Proyecto funcional y publicado.
+
+## Capturas
+
+![Ventana Principal](screenshots/main.jpg)
+
+![Resultados](screenshots/duplicates-window.jpg)
